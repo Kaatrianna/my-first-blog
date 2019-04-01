@@ -1,0 +1,3 @@
+для запуска виртуального окружения
+C:\web\python> myvenv\Scripts\activate
+к питону обращаться не python3 а просто python
