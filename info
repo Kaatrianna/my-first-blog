@@ -1,3 +1,10 @@
 для запуска виртуального окружения
 C:\web\python> myvenv\Scripts\activate
 к питону обращаться не python3 а просто python
+
+superuser на сайте будет admin - 1q2w3e4r5t
+
+запуск сайта локально (после запуска виртуального окружения)
+(myvenv) C:\web\python\virtualenv>python manage.py runserver
+локальная админка
+http://127.0.0.1:8000/admin/blog/post
